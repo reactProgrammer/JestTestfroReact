@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JestTestfroReact/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/JestTestfroReact/static/js/main.a31a76ce.chunk.js",
+    "main.js.map": "/JestTestfroReact/static/js/main.a31a76ce.chunk.js.map",
+    "runtime-main.js": "/JestTestfroReact/static/js/runtime-main.f5eeea4a.js",
+    "runtime-main.js.map": "/JestTestfroReact/static/js/runtime-main.f5eeea4a.js.map",
+    "static/js/2.db39837d.chunk.js": "/JestTestfroReact/static/js/2.db39837d.chunk.js",
+    "static/js/2.db39837d.chunk.js.map": "/JestTestfroReact/static/js/2.db39837d.chunk.js.map",
+    "static/js/3.4a34e60f.chunk.js": "/JestTestfroReact/static/js/3.4a34e60f.chunk.js",
+    "static/js/3.4a34e60f.chunk.js.map": "/JestTestfroReact/static/js/3.4a34e60f.chunk.js.map",
+    "index.html": "/JestTestfroReact/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/JestTestfroReact/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.db39837d.chunk.js.LICENSE.txt": "/JestTestfroReact/static/js/2.db39837d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/JestTestfroReact/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5eeea4a.js",
+    "static/js/2.db39837d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.a31a76ce.chunk.js"
+  ]
+}
