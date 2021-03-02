@@ -20,14 +20,14 @@ describe('Headline component',()=>{
                   fName : 'test ashwini',
                   lName : 'test chougale',
                   email : 'test ashwini29chougale@gmail.com',
-                  age   : 27,
+                  age   :  27,
                   onlineStatus:false
               }]
           };
           const propsError = checkProps(Headline,expectedProps);
           expect(propsError).toBeUndefined();
         });
-    })
+    });
 
     describe('Have props',()=>{
         let wrapper;
@@ -55,7 +55,7 @@ describe('Headline component',()=>{
         })
 
 
-    })
+    });
 
     describe('Have no props',()=>{
        let wrapper;
@@ -68,7 +68,7 @@ describe('Headline component',()=>{
            expect(component.length).toBe(0);
        });
 
-    })
+    });
 })
 
 
